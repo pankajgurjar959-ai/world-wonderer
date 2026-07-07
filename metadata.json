@@ -1,0 +1,6 @@
+{
+  "name": "World Wanderer",
+  "description": "Discover the best places to visit around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
